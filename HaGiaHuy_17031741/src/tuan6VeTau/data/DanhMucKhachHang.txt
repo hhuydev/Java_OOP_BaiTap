@@ -1,0 +1,5 @@
+123;Phạm An;Bắc Ninh;400000
+312;Lê Mạnh;Hà Nội;430000
+232;Trần Phúc;Vũng Tàu;120000
+454;Đặng Ngọc;Đà Lạt;200000
+323;Lâm Anh;Đà Nẵng;250000
